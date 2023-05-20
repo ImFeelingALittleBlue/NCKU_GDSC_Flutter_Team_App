@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104612236007",
+    "project_id": "ncku-gdsc-flutter-team-app",
+    "storage_bucket": "ncku-gdsc-flutter-team-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104612236007:android:d45aa965115a6365e53042",
+        "android_client_info": {
+          "package_name": "com.example.gdsc_flutter_group"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104612236007-k0k12b64q40r2pqs7hvu0etf5doohi8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBtGb4DKWPQbrhrheEEs0_fvKi_R78ook"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104612236007-k0k12b64q40r2pqs7hvu0etf5doohi8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
